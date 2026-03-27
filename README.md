@@ -15,9 +15,9 @@
 
 Hi! I'm **Arslan Ali**, a Computer Science student passionate about building **real-world web applications**.
 
-🔹 I specialize in **clean UI + efficient backend systems**
-🔹 I focus on **simple, scalable, and beginner-friendly solutions**
-🔹 I am actively looking for **freelance & remote opportunities**
+🔹 I specialize in **clean UI + efficient backend systems** <br/>
+🔹 I focus on **simple, scalable, and beginner-friendly solutions** <br/>
+🔹 I am actively looking for **freelance & remote opportunities** <br>/
 
 💡 *I can help you build:*
 
