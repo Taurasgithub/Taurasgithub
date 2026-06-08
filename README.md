@@ -1,4 +1,4 @@
-# 🚀 Arslan Ali | Full Stack Developer (In Progress)
+# 🚀 Arslan Ali | MERN Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;FastAPI+%7C+React+Learner;Open+to+Freelance+Work;Building+Real+World+Projects" alt="Typing SVG" />
