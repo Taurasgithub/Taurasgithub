@@ -89,41 +89,69 @@ Hi! I'm **Arslan Ali**, a Computer Science student passionate about building **r
 
 ## 🚀 Portfolio (Featured Work)
 
-### 📌 1. Data Visualizer (Web Project)
+### 📌 1. PSX Stock Market Analysis & Portfolio Optimization
 
-🧠 Cleans data using datascience process
+📈 Developed a data-driven investment analysis system for the Pakistan Stock Exchange (PSX).
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Spam+Classifier+Preview)
+🔹 Performed stock market data analysis and visualization  
+🔹 Applied portfolio optimization techniques to maximize returns while minimizing risk  
+🔹 Conducted risk-return analysis and performance evaluation of selected stocks  
+🔹 Built interactive visualizations for investment decision-making  
 
----
-
-### 📌 2. Spotify Desktop Clone
-
-🎵 Built using Java Swing + MySQL
-
-![Project Screenshot](https://via.placeholder.com/800x400?text=Spotify+Clone+Preview)
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Scikit-Learn
 
 ---
 
-### 📌 3. Library Management System
+### 📌 2. Coca-Cola Predictive Marketing Analytics
 
-📚 Java-based system for managing books & users
+🥤 Built a predictive analytics solution to analyze consumer behavior and marketing performance.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Library+System+Preview)
+🔹 Performed data cleaning, preprocessing, and exploratory data analysis (EDA)  
+🔹 Identified key factors influencing customer engagement and sales performance  
+🔹 Developed predictive models to support marketing decision-making  
+🔹 Created insightful visualizations and business intelligence reports  
 
----
-
-### 📌 4. Banking System
-
-🏦 Core Java application simulating banking operations
-
-![Project Screenshot](https://via.placeholder.com/800x400?text=Banking+System+Preview)
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib
 
 ---
 
-💡 *More projects coming soon...*
+### 📌 3. Data Visualizer (Web Project)
+
+📊 Interactive web-based data visualization application.
+
+🔹 Cleans and processes datasets using data science methodologies  
+🔹 Generates meaningful visual insights from raw data  
+🔹 Provides an intuitive interface for exploring datasets  
+
+**Tech Stack:** JavaScript, React, Data Visualization Libraries
 
 ---
+
+### 📌 4. Library Management System
+
+📚 Java-based system for managing books, users, and borrowing records.
+
+🔹 User and book management functionalities  
+🔹 Search and inventory tracking system  
+🔹 Efficient record management using object-oriented principles  
+
+**Tech Stack:** Java, OOP
+
+---
+
+### 📌 5. Banking System
+
+🏦 Core Java application simulating real-world banking operations.
+
+🔹 Account creation and management  
+🔹 Deposit, withdrawal, and balance inquiry functionalities  
+🔹 Transaction handling with object-oriented design principles  
+
+**Tech Stack:** Java, OOP
+
+---
+
+💡 *More exciting projects are currently under development...*
 
 ## 🏆 Achievements
 
