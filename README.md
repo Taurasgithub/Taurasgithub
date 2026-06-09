@@ -165,7 +165,9 @@ Hi! I'm **Arslan Ali**, a Computer Science student passionate about building **r
 ## 📬 Contact Me
 
 📧 Email: [aa9737210@gmail.com](mailto:aa9737210@gmail.com)
+<br/>
 🔗 LinkedIn: [https://linkedin.com/in/arslan-ali-179605352?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://linkedin.com/in/arslan-ali-179605352?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<br/>
 💻 GitHub: [https://github.com/Taurasgithub](https://github.com/Taurasgithub)
 
 ---
